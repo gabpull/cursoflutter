@@ -221,7 +221,7 @@ class FormularioPaginaState extends State<FormularioPagina> {
                   child: Container(
                     padding: EdgeInsets.symmetric(horizontal: 10, vertical: 5),
                     decoration: BoxDecoration(
-                      color: Colors.green,
+                      color: Colors.red,
                       borderRadius: BorderRadius.circular(4),
                     ),
 
